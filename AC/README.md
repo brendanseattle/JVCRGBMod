@@ -51,7 +51,8 @@ Finally, solder some wires (or use quick connectors, but I avoid these due to in
 
 4. Attach the rest of the wires necessary for your connector. If you're using SCART, you'll need wires for audio left and right. Regardless of SCART/BNC, you'll also need to attach a wire to the Component Luma pin for sync. Solder them at the pins like so. Make sure you use the component and audio jacks for Video 2.
 
-<img width="400" alt="11" src="https://github.com/brendanseattle/JVCRGBMod/assets/41927604/fef07d6e-a1c0-463a-a41f-343b3b62f703" /> TODO component pic
+<img width="400" alt="11" src="https://github.com/brendanseattle/JVCRGBMod/assets/41927604/fef07d6e-a1c0-463a-a41f-343b3b62f703" /> TODO component pic <img width="400" alt="12" src="https://github.com/brendanseattle/JVCRGBMod/assets/41927604/99320e40-e9f5-4fa2-8d6f-7bd9202f6eb7" />
+
 
 5. Assemble the SCART connector resistors and diodes. Using a mux board here helps a lot with the wiring. 
 
