@@ -13,6 +13,12 @@ This JVC D-Series chassis includes support for analog RGB through the micom's OS
 
 This mux mod will utilize the OSD circuit for RGB, Component Luma for sync, and direct connection with SCART pin 16 for blanking.
 
+## Schematics
+
+| Stock OSD RGB circuit | External RGB Mux Mod |
+|---|---|
+|<img src="https://github.com/brendanseattle/JVCRGBMod/assets/41927604/94ff3e63-f72c-4adc-a393-56d6fd33ff46" width="400" />|<img src="https://github.com/brendanseattle/JVCRGBMod/assets/41927604/29454bf4-6b1e-4817-95b9-a23e973b506c" width="400" />|
+
 ## Components Needed
 
 * 4 1n4148 diodes
