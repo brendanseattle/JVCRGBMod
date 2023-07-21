@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/uIfDkXu.jpg" width="600" />
 
-RGB Mod for JVC AC CRT televisions.
+RGB Mod for JVC AC CRT televisions. Also applies to similar model numberss within the GC chassis.
 
 Written by Brendan Eddy (FlyingFlygon)
 
